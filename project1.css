@@ -123,11 +123,12 @@ html{
 #brand{
     margin: 34px;
     display: flex;
+
 }
 #brand .box{ 
     border: 2px solid brown;
-    padding: 34px;
-    margin: 2px 55px;
+    padding: 17px;
+    margin: -19px 8px;
     border-radius: 28px;
     background: #f2f2f2;
     margin-bottom: 20px;
@@ -174,12 +175,12 @@ html{
 }
 
 .service-item{
-    padding: 100px;
+    padding: 48px;
 }
 
 #service img{
-    height: 180px;
-    width: 300px;
+    height: 170px;
+    width: 170px;
 }
 #service h2{
     display:flex;
